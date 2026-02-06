@@ -17,4 +17,14 @@
 | **配置** | `chore` | 修改 `.gitignore` 或 IDE 环境配置 |
 
 ---
+ ## 💬 联系与反馈 (Feedback)
+
+> **"What I cannot create, I do not understand."**
+
+如果您在阅读代码时发现任何逻辑漏洞、性能优化点或是不够规范的地方，**请务必大方地指出**。
+If you find any bugs, performance bottlenecks, or non-standard implementations, **please don't hesitate to point them out.**
+
+- 📧 Email: diwu61474@gmail.com
+- 🚀 Open an [Issue](https://github.com/Forikk-w/My-Deeplearning-Journey/issues) for discussions.
+
 
