@@ -1,9 +1,12 @@
 # My-Deeplearning-Journey
 > **Back to basics**
 > 
+> **原则：所有代码均按个人逻辑手搓**
+> 
 > *A passionate learner diving into Deep Learning.
 > Currently focused on mastering the fundamentals through implementation from scratch.
 > Excited to explore the infinite possibilities of AI with the community.*
+---
 ## 🛠 提交规范 (Commit Convention)
 
 `类型: 描述 (Type: Description)`
