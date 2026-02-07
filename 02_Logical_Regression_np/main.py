@@ -15,7 +15,7 @@ def run() :
     x_train,y_train,x_test,y_test = produce_iris_dataset(train_size=80)
     #获取训练集均值和标准差
     x_mean = np.mean(x_train,axis = 0)
-    x_std = np.std(x_train)
+    x_std = np.std(x_train,axis = 0)
 
     #数据预处理 归一化
     x_train_norm, temp=  normalize_data(x_train, x_mean, x_std)
