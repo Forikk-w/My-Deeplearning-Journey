@@ -1,7 +1,7 @@
-from utils.Iris_Dataset_production import produce_iris_dataset
-from utils.data_normalization import normalize_data,denormalize_data
+from utils02.Iris_Dataset_production import produce_iris_dataset
+from utils02.data_normalization import normalize_data,denormalize_data
 from models.logical_regression_np import logical_regression
-from utils.sigmoid_function import sigmoid
+from utils02.sigmoid_function import sigmoid
 import numpy as np
 def run() :
     '''

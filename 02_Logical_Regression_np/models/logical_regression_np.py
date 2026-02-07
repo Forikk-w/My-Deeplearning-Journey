@@ -1,5 +1,5 @@
 import numpy as np
-from utils.sigmoid_function import sigmoid
+from utils01.sigmoid_function import sigmoid
 def logical_regression(x,y,alpha,iterations) :
     '''
         x.shape = (len(x),5)

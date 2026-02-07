@@ -1,9 +1,9 @@
 import numpy as np
-from utils.data_generator import generate_data
+from utils01.data_generator import generate_data
 from models.linear_regression_np import linear_regression
-from utils.loss_computation import compute_loss
-from utils.R2_determination import r2_computation
-from utils.data_vision import data_vision
+from utils01.loss_computation import compute_loss
+from utils01.R2_determination import r2_computation
+from utils01.data_vision import data_vision
 def run() :
     '''
         1.生成数据集
