@@ -37,7 +37,7 @@ def run() :
     # print(test_y.reshape(1,-1)[0][:10],'\n',y_predicted.reshape(1,-1)[0][:10])
 
     #计算决定系数 R^2
-    print(f"R^2 = {r2_computation(y_predicted,test_y,y_mean)}\n")
+    print(f"R^2 = {r2_computation(y_predicted,test_y,np.mean(test_y))}\n")
 
 if __name__ == '__main__':
     print("01 Linear Regression by numpy")
