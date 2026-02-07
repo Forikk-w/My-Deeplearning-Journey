@@ -7,9 +7,9 @@
 > Currently focused on mastering the fundamentals through implementation from scratch.
 > Excited to explore the infinite possibilities of AI with the community.*
 ---
-## 🛠 提交规范 (Commit Convention)
+## Commit Convention
 
-`类型: 描述 (Type: Description)`
+`类型: 描述 `
 
 | 类型 | 标识符 | 描述 |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@
 | **配置** | `chore` | 修改 `.gitignore` 或 IDE 环境配置 |
 
 ---
- ## 💬 联系与反馈 (Feedback)
+ ## Feedback
 
 > **"What I cannot create, I do not understand."**
 
