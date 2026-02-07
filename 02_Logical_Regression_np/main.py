@@ -30,6 +30,7 @@ def run() :
 
     y_predicted = np.dot(x_test_norm, theta)
     #转化为概率
+    y_predicted = sigmoid(y_predicted)
     prediction = (y_predicted >= 0.5).astype(int)
 
     #验证正确率
