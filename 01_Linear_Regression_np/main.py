@@ -1,6 +1,6 @@
 import numpy as np
 from utils01.data_generator import generate_data
-from models.linear_regression_np import linear_regression
+from models.linear_regression import linear_regression
 from utils01.loss_computation import compute_loss
 from utils01.R2_determination import r2_computation
 from utils01.data_vision import data_vision
