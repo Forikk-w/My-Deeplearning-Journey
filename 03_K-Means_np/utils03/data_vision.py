@@ -8,8 +8,10 @@ def visualize_data(points) :
     y = points[:,1]
     fig = plt.figure()
     plt.plot(x,y,marker = '.',linestyle = '')
-    plt.show()
 
+    plt.xlim([-5,15])
+    plt.ylim([-5,15])
+    plt.show()
 
 if __name__ == '__main__':
     pass
